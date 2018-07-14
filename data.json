@@ -1,0 +1,47 @@
+{
+  "basics":{
+    "name":"mohan sai bisai",
+    "email":"mohoanjrpradeep@gmail.com",
+    "mobile":"9848022338"
+  },
+  "career":{
+    "info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
+  },
+  "education":[
+    {
+    "degree":"B.TECH(C.S.E)",
+    "institute":"AVANTHI",
+    "data":["2015-19","76%"]
+  },
+    {
+      "degree":"Intermediate/Diploma(mpc)",
+    "institute":"sri chaitanya junior college",
+    "data":["2014-15","84%"]
+  },
+  {
+    "degree":"s.s.c",
+  "institute":"Mrs.mariadas school",
+  "data":["2012-13","90%"]
+}
+],
+"skills":[
+  {
+    "title":"programming Languages",
+    "info":["c","c++","java","python","R"]
+  },
+  {
+    "title":"DataBase",
+    "info":["mongodb","mysql","oracle"]
+  },{
+    "title":"Web Technologies",
+    "info":["html5","css3","javascript"]
+},{
+  "title":"Libraries and frameworks",
+"info":["ionic","Angular","expressjs","django"]
+},
+{
+"title":"operating system",
+"info":["linux","windows","dos"]  
+  }
+]
+}

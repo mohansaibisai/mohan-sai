@@ -1,0 +1,42 @@
+.FlexParent{
+  display:Flex;
+  flex-direction: row;
+  justify-content:center;
+}
+.child1{
+  height:100%;
+  margin:5%;
+  padding:5%;
+  font-size:40px;
+  border:5px solid green;
+}
+.child2{
+  height:50%;
+  margin:5%;
+  padding:5%;
+  font-size:40px;
+  border:5px solid green;
+}
+@media only screen and (min-width:481px) and (max-width:720px){
+  .FlexParent{
+    display:Flex;
+    flex-direction: row;
+    justify-content:center;
+  }
+  .child1{
+  width:96%;
+  margin: 2%;
+    padding:2%%;
+    font-size:40px;
+    border:5px solid green;
+    background-color: orange;
+  }
+  .child2{
+    width:96%;
+    margin:2%;
+    padding:5%;
+    font-size:40px;
+    border:5px solid green;
+    background-color: yellow;
+  }
+}
